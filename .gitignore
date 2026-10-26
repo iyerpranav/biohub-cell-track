@@ -1,0 +1,23 @@
+# --- Root Level Data Directories ---
+train/
+test/
+train_processed/
+test_processed/
+pred_centroids/
+pred_heatmaps/
+pred_tracks/
+
+# --- Detection Subdirectory Data & Models ---
+detection/deadends/
+detection/heatmaps/
+detection/models/
+detection/points/
+detection/preds/
+detection/sweeps/
+detection/unet_labels/
+detection/unet_patches/
+
+# --- Python & IDE Junk ---
+**/__pycache__/
+**/*.pyc
+.ipynb_checkpoints/
