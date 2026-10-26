@@ -1,0 +1,22 @@
+Dataset:
+https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/data
+
+[1]  https://doi.org/10.1016/j.media.2008.06.001
+[2]  https://doi.org/10.1038/s41592-023-01879-y
+[3]  https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/
+[4]  https://doi.org/10.1080/757582976
+[5]  https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
+[6]  https://doi.org/10.1109/34.87344
+[7]  https://arxiv.org/pdf/1505.04597
+[8]  https://arxiv.org/pdf/1606.06650
+[9]  https://arxiv.org/pdf/1806.03535
+[10] https://arxiv.org/pdf/1908.03636
+[11] https://doi.org/10.1038/s41592-020-01018-x
+[12] https://doi.org/10.1080/21681163.2016.1149104
+[13] https://doi.org/10.1038/nmeth.1237
+[14] https://doi.org/10.1016/j.ymeth.2016.09.016
+[15] https://doi.org/10.1038/s41592-022-01507-1
+[16] https://doi.org/10.1093/bioinformatics/btac799
+[17] https://doi.org/10.1109/ICCV.2013.364
+[18] https://doi.org/10.1038/s41587-022-01427-7
+[19] https://arxiv.org/pdf/2208.11467
