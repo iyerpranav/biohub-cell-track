@@ -2,8 +2,6 @@
 
 Linked to the Kaggle competition [Biohub: Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/): Detecting and tracking cells through 3D light-sheet microscopy videos over time.
 
-Built by [@iyerpranav](https://github.com/iyerpranav) and [@uscool](https://github.com/uscool).
-
 ## Pipeline
 
 **1. Preprocessing (GPU).** Each 3D frame is cleaned with a median filter, rolling-ball background subtraction, CLAHE contrast equalization, and gamma correction, implemented with cuCIM/CuPy for speed (`detection/pre_proc.ipynb`).
