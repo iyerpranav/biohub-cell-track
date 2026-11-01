@@ -1,6 +1,6 @@
 # Biohub Cell Tracking
 
-An entry for the Kaggle competition [Biohub: Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/): detecting and tracking cells through 3D light-sheet microscopy videos over time.
+Linked to the Kaggle competition [Biohub: Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/): Detecting and tracking cells through 3D light-sheet microscopy videos over time.
 
 Built by [@iyerpranav](https://github.com/iyerpranav) and [@uscool](https://github.com/uscool).
 
